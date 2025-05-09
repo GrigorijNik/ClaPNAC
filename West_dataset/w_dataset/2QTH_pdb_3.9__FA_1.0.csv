@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-500,A-301,1.0,W,GDP-LYS_Backbone,
+A-500,A-300,1.0,5',GDP-ASN,
+A-500,A-303,1.0,W,GDP-ASP,

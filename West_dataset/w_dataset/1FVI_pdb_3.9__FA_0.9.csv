@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-164,0.98,5',AMP-MET,
+A-501,A-98,1.0,3',AMP-PHE,
+A-501,A-98,0.98,5',AMP-PHE,

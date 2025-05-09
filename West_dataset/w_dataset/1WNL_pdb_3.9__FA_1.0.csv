@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-1301,A-54,1.0,H,ADP-GLU_Backbone,
+A-1301,A-140,1.0,S,ADP-ALA,
+B-1302,B-54,1.0,H,ADP-GLU_Backbone,
+B-1302,B-140,1.0,S,ADP-ALA,

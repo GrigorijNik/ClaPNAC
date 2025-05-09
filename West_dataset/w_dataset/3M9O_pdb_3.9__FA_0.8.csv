@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+T-3,B-32,1.0,S,DT-VAL,
+T-3,B-42,0.86,W,DT-ALA_Backbone,
+T-3,B-58,0.9,H,DT-GLY_Backbone,
+T-3,B-58,0.9,W,DT-GLY_Backbone,
+T-3,B-58,0.84,5',DT-GLY_Backbone,
+B-2001,B-44,1.0,S,ATP-ALA,

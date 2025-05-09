@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-173,A-146,1.0,H,ADP-SER,
+A-173,A-148,1.0,W,ADP-LYS_Backbone,
+A-173,A-147,0.96,W,ADP-ASN_Backbone,
+A-173,A-149,1.0,W,ADP-PRO,

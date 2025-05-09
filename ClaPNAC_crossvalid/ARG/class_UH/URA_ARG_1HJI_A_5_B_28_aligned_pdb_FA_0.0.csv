@@ -1,0 +1,8 @@
+NA_id,P_id,weight,type,N-AA,
+A-5,B-28,1.0,H,U-ARG,
+A-5,B-28,0.94,3',U-ARG,
+A-5,B-28,0.87,W,U-ARG,
+A-5,B-28,0.82,R,U-ARG,
+A-5,B-28,0.8,S,U-ARG,
+A-5,B-28,0.72,5',U-ARG,
+A-5,B-28,0.71,P,U-ARG,

@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-1257,A-84,1.0,5',UMP-ARG_Backbone,
+A-1257,A-84,1.0,W,UMP-ARG_Backbone,
+A-1257,A-73,1.0,5',UMP-GLY_Backbone,
+A-1257,A-74,0.96,5',UMP-ILE_Backbone,
+A-1257,A-71,0.94,H,UMP-HIS,

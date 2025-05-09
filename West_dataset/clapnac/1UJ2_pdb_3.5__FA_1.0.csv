@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-2301,A-62,1.0,P,C-ASP,
+A-2301,A-84,1.0,R,C-ASP,
+A-2301,A-83,1.0,+,C-PHE,
+B-1301,B-62,1.0,P,C-ASP,
+B-1301,B-84,1.0,R,C-ASP,
+B-1301,B-166,1.0,R,C-ARG,
+B-1301,B-83,1.0,+,C-PHE,

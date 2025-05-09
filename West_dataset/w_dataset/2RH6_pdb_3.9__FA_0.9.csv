@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-433,A-174,1.0,3',AMP-TYR,
+A-433,A-174,0.91,5',AMP-TYR,
+A-433,A-91,0.94,5',AMP-PHE,

@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-257,A-41,0.9,H,TMP-HIS,
+A-257,A-20,0.93,W,TMP-ALA,
+A-257,A-20,0.96,W,TMP-ALA_Backbone,

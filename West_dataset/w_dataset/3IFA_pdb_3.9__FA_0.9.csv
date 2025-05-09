@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-339,A-21,1.0,W,AMP-GLY_Backbone,
+A-339,A-177,1.0,S,AMP-THR,
+B-339,B-21,1.0,W,AMP-GLY_Backbone,
+B-339,B-177,1.0,S,AMP-THR,

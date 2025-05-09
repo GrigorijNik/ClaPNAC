@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+B-1001,B-154,1.0,5',GTP-ASN,
+B-1001,B-229,1.0,5',GTP-ASN,
+B-1001,B-157,1.0,W,GTP-GLU,

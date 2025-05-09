@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+B-800,B-25,0.92,5',UDP-ARG,
+B-800,B-175,1.0,3',UDP-PHE,
+B-800,B-54,0.95,S,UDP-ASN,

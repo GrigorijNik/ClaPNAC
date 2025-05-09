@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-1563,A-250,1.0,3',AMP-TYR_Backbone,
+A-1563,A-339,1.0,3',AMP-PHE,
+A-1563,A-339,0.94,5',AMP-PHE,

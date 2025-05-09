@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-1374,A-136,1.0,W,U-VAL,
+A-1374,A-136,1.0,+,U-VAL_Backbone,
+A-1374,A-136,1.0,W,U-VAL_Backbone,
+A-1374,A-139,1.0,+,U-TYR,

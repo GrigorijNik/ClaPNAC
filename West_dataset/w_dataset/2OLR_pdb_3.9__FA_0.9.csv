@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-541,A-256,0.92,S,ATP-THR,
+A-541,A-452,1.0,3',ATP-ILE,
+A-541,A-441,0.93,5',ATP-THR,
+A-541,A-441,0.9,W,ATP-THR,

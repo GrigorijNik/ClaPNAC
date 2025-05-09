@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-33,1.0,5',ADP-PRO,
+A-301,A-97,1.0,3',ADP-PHE,
+A-301,A-93,1.0,3',ADP-PHE,
+A-301,A-89,1.0,W,ADP-ILE_Backbone,
+A-301,A-35,0.92,S,ADP-ALA,

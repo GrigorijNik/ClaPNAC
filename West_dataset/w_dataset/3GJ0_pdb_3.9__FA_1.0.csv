@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-302,A-25,1.0,H,GDP-THR,
+A-302,A-152,1.0,5',GDP-LYS,
+A-302,A-122,1.0,5',GDP-ASN,
+A-302,A-125,1.0,W,GDP-ASP,

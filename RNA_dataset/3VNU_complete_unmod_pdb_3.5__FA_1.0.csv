@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+G-2003,A-1250,1.0,R,C-SER,
+T-2101,A-852,1.0,P,G-ALA,
+T-2101,A-852,1.0,P,G-ALA_Backbone,
+T-2101,A-1018,1.0,-,G-GLY,
+T-2102,A-935,1.0,R,G-ARG,

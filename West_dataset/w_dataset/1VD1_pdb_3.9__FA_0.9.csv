@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-295,A-50,1.0,3',AMP-TRP,
+A-295,A-50,1.0,S,AMP-TRP,
+A-296,A-39,0.9,H,AMP-HIS,
+A-296,A-17,1.0,5',AMP-TYR,
+A-296,A-80,1.0,S,AMP-ALA,

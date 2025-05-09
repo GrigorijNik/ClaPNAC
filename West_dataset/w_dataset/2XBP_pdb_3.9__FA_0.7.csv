@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1114,A-28,0.77,5',ATP-MET_Backbone,
+A-1114,A-29,0.82,S,ATP-THR,
+A-1114,A-27,0.78,5',ATP-GLY,
+A-1114,A-64,1.0,W,ATP-VAL,
+A-1114,A-64,0.84,5',ATP-VAL,
+A-1114,A-64,1.0,W,ATP-VAL_Backbone,

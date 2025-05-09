@@ -1,0 +1,14 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	2B6G_prot_split.pdb	26	26	HB	12	58.448	-17.758	-4.551	G	10	B	N1	60.744	-16.021	-3.084	3.23123
+1	2B6G_prot_split.pdb	26	26	HB	12	58.448	-17.758	-4.551	G	10	B	N2	58.471	-15.588	-3.118	2.60056
+2	2B6G_prot_split.pdb	53	53	Lipophilic	5	61.76	-18.962	-3.548	G	10	B	C6	62.033	-15.981	-2.565	3.1507
+3	2B6G_prot_split.pdb	54	54	HB	1	63.344	-21.273	-1.376	C	8	B	O3'	65.53	-18.71	-1.772	3.39181
+4	2B6G_prot_split.pdb	54	54	HB	1	63.344	-21.273	-1.376	C	8	B	O3'	65.53	-18.71	-1.772	3.39181
+5	2B6G_prot_split.pdb	54	54	HB	1	63.344	-21.273	-1.376	U	9	B	O5'	65.161	-18.56	0.709	3.87416
+6	2B6G_prot_split.pdb	54	54	HB	1	63.344	-21.273	-1.376	U	9	B	O5'	65.161	-18.56	0.709	3.87416
+7	2B6G_prot_split.pdb	54	54	Lipophilic	5	64.453	-22.321	0.559	U	9	B	C5'	65.262	-19.16	1.999	3.5665
+8	2B6G_prot_split.pdb	55	55	HB	1	62.569	-19.881	0.859	U	9	B	O5'	65.161	-18.56	0.709	2.91307
+9	2B6G_prot_split.pdb	55	55	HB	1	62.569	-19.881	0.859	U	9	B	O5'	65.161	-18.56	0.709	2.91307
+10	2B6G_prot_split.pdb	55	55	Lipophilic	2	61.748	-18.978	1.705	U	9	B	C5'	65.262	-19.16	1.999	3.531
+11	2B6G_prot_split.pdb	55	55	Lipophilic	2	61.748	-18.978	1.705	U	9	B	C3'	64.649	-16.891	3.008	3.8038
+12	2B6G_prot_split.pdb	56	56	Lipophilic	5	58.589	-18.999	-2.019	G	10	B	C2	59.627	-15.49	-2.462	3.686

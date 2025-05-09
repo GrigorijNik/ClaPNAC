@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-500,A-250,0.82,3',AMP-ILE,
+A-500,A-228,0.92,3',AMP-ILE,
+A-500,A-228,0.9,S,AMP-ILE,
+A-500,A-228,0.88,S,AMP-ILE_Backbone,
+A-500,A-231,1.0,W,AMP-THR,

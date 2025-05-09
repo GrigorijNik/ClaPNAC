@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+B-601,B-160,1.0,+,T-GLU_Backbone,
+B-601,B-160,1.0,W,T-GLU_Backbone,
+B-601,B-162,1.0,+,T-ASP_Backbone,
+B-601,B-162,1.0,W,T-ASP_Backbone,
+B-701,B-139,1.0,W,A-VAL,
+B-701,B-139,1.0,W,A-VAL_Backbone,

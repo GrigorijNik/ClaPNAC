@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-236,1.0,W,ATP-LEU,
+A-501,A-236,1.0,W,ATP-LEU_Backbone,
+A-501,A-206,1.0,S,ATP-ALA,

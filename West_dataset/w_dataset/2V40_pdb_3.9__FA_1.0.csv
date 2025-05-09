@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-1457,A-45,1.0,5',GDP-LYS,
+A-1457,A-446,1.0,3',GDP-GLY,
+A-1457,A-446,1.0,3',GDP-GLY_Backbone,
+A-1457,A-364,1.0,W,GDP-ASP,

@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-560,A-48,0.96,S,ADP-THR,
+A-560,A-138,0.96,W,ADP-ARG,
+A-560,A-138,0.8,3',ADP-ARG,
+A-560,A-14,0.93,W,ADP-MET,

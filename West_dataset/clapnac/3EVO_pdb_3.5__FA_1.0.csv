@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-160,A-58,1.0,-,T-TYR,
+A-160,A-110,1.0,+,T-ILE,
+B-161,B-110,1.0,+,T-ILE,
+B-161,B-58,1.0,-,T-TYR,

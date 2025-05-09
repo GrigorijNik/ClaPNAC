@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+C-401,C-321,0.9,S,ADP-ILE,
+C-401,C-316,1.0,W,ADP-LEU,
+D-401,D-321,0.9,S,ADP-ILE,
+D-401,D-316,1.0,W,ADP-LEU,

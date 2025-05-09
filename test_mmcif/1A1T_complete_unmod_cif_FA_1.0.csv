@@ -1,0 +1,14 @@
+NA_id,P_id,weight,type,N-AA,
+B-206,A-10,1.0,P,A-ARG,
+B-206,A-7,1.0,H,A-ARG,
+B-208,A-11,1.0,P,C-LYS,
+B-210,A-37,1.0,3',G-TRP,
+B-211,A-32,1.0,W,A-ARG,
+B-212,A-16,1.0,3',G-PHE,
+
+,,,,,GGACUAGCGGAGGCUAGUCC
+,,,,,.....*.*.***........
+,,,,,
+,,,,,
+,,,,,QKGNFRNQRKTVKCFNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQAN
+,,,,,......*..**....*...............*....*.................

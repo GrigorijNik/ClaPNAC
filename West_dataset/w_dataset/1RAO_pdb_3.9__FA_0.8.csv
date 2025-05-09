@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-171,A-110,0.8,3',AMP-ARG_Backbone,
+A-171,A-111,0.92,3',AMP-LEU,
+A-171,A-112,1.0,H,AMP-THR_Backbone,
+A-171,A-112,0.88,W,AMP-THR_Backbone,
+A-171,A-98,1.0,W,AMP-ILE_Backbone,
+A-171,A-97,0.82,5',AMP-ASP,
+A-171,A-70,0.88,S,AMP-LEU,

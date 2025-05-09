@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-309,A-29,0.81,5',AMP-VAL,
+A-309,A-143,0.81,3',AMP-LEU,
+A-309,A-42,0.94,W,AMP-ALA,
+A-309,A-94,1.0,S,AMP-ALA,

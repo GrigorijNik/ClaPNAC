@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-126,0.68,5',UTP-ALA_Backbone,
+A-501,A-126,0.6,W,UTP-ALA_Backbone,
+A-501,A-96,0.9,H,UTP-GLU,
+A-502,A-310,0.78,S,UTP-ARG,
+A-502,A-310,0.67,3',UTP-ARG,
+A-502,A-310,0.63,5',UTP-ARG,
+A-502,A-310,0.62,W,UTP-ARG_Backbone,

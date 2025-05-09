@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-1425,A-58,0.92,W,ADP-ASN_Backbone,
+A-1425,A-309,0.98,S,ADP-ALA,
+A-1425,A-312,0.93,3',ADP-TYR,

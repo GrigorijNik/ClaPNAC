@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-2000,A-18,0.89,3',TMP-MET,
+A-2000,A-18,0.86,W,TMP-MET_Backbone,
+A-2000,A-61,1.0,W,TMP-GLU,
+A-2000,A-61,0.88,5',TMP-GLU_Backbone,
+A-2000,A-61,0.88,W,TMP-GLU_Backbone,

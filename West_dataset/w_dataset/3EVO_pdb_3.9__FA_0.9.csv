@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-160,A-58,1.0,3',TYD-TYR,
+A-160,A-58,0.9,W,TYD-TYR_Backbone,
+A-160,A-110,1.0,5',TYD-ILE,
+B-161,B-58,1.0,3',TYD-TYR,
+B-161,B-58,0.9,W,TYD-TYR_Backbone,
+B-161,B-110,1.0,5',TYD-ILE,

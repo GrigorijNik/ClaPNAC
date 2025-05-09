@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-304,A-245,0.76,H,AMP-ARG,
+A-304,A-246,1.0,3',AMP-HIS,
+A-304,A-246,0.92,5',AMP-HIS,
+A-304,A-246,0.86,W,AMP-HIS,

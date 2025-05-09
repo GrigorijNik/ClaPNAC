@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-195,A-178,0.95,5',ADP-VAL,
+A-195,A-178,0.94,W,ADP-VAL,
+A-196,A-93,0.9,5',UDP-ARG,
+A-196,A-65,1.0,W,UDP-VAL_Backbone,
+A-196,A-65,0.96,5',UDP-VAL_Backbone,

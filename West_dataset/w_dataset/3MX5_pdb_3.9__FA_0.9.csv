@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-993,A-176,0.96,3',UTP-PHE,
+A-993,A-176,0.96,W,UTP-PHE,
+A-993,A-240,0.9,W,UTP-ASN_Backbone,
+A-993,A-241,0.96,W,UTP-ILE_Backbone,

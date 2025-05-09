@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-801,A-744,0.89,3',ADP-PHE,
+A-801,A-665,1.0,S,ADP-ALA,
+A-801,A-694,0.84,3',ADP-ILE,
+A-801,A-694,0.8,S,ADP-ILE,

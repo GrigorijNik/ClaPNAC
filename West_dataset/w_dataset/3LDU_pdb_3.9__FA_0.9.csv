@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-383,A-262,0.96,3',GTP-ILE,
+A-383,A-262,0.9,S,GTP-ILE_Backbone,
+A-383,A-290,0.97,W,GTP-ALA,

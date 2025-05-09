@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-185,1.0,S,C-ARG,
+A-300,A-30,1.0,W,C-TYR_Backbone,
+A-300,A-29,1.0,H,C-TYR,
+B-300,B-185,1.0,S,C-ARG,
+B-300,B-30,1.0,W,C-TYR_Backbone,
+B-300,B-29,1.0,H,C-TYR,

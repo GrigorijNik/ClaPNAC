@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-602,A-190,1.0,W,UDP-PHE_Backbone,
+A-602,A-175,1.0,3',UDP-PRO,
+B-602,B-190,1.0,W,UDP-PHE_Backbone,
+B-602,B-175,1.0,3',UDP-PRO,

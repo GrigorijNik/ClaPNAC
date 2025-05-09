@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-1001,A-92,0.9,W,ATP-ARG,
+A-1001,A-89,1.0,W,ATP-ASP_Backbone,
+B-1002,B-126,0.8,W,ATP-ARG,
+B-1002,B-92,0.9,W,ATP-ARG,
+B-1002,B-89,1.0,W,ATP-ASP_Backbone,

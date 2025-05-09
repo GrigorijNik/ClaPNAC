@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-278,A-168,1.0,5',AMP-PHE,
+A-278,A-168,0.91,3',AMP-PHE,
+A-278,A-148,1.0,W,AMP-GLN_Backbone,
+A-278,A-147,1.0,W,AMP-VAL,

@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-303,A-88,0.86,3',AMP-HIS,
+A-303,A-88,0.78,H,AMP-HIS,
+A-303,A-88,0.73,W,AMP-HIS,
+A-303,A-89,1.0,S,AMP-ALA,

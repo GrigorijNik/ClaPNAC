@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-377,A-269,1.0,5',TYD-THR_Backbone,
+A-377,A-269,1.0,W,TYD-THR_Backbone,
+A-377,A-195,1.0,W,TYD-GLY_Backbone,
+A-377,A-270,1.0,W,TYD-PRO_Backbone,

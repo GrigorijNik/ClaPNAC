@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-317,A-204,0.9,S,ADP-ILE,
+A-317,A-158,1.0,3',ADP-ILE,
+A-317,A-158,0.94,5',ADP-ILE,
+A-317,A-201,0.9,W,ADP-LEU,

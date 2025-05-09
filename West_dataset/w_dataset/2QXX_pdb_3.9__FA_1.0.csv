@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-201,A-126,1.0,5',TTP-ILE,
+A-201,A-127,1.0,S,TTP-THR,
+A-201,A-127,1.0,5',TTP-THR_Backbone,
+A-201,A-127,1.0,W,TTP-THR_Backbone,

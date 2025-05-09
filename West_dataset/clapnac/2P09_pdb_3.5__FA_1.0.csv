@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-500,A-43,1.0,+,A-TYR,
+A-500,A-50,1.0,-,A-PHE,
+A-500,A-50,1.0,+,A-PHE,
+A-500,A-45,1.0,W,A-MET_Backbone,

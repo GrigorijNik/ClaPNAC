@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-1001,A-16,1.0,5',CTP-GLY,
+A-1001,A-15,0.94,W,CTP-ALA,
+A-1001,A-88,1.0,3',CTP-SER,
+A-1001,A-88,1.0,W,CTP-SER,

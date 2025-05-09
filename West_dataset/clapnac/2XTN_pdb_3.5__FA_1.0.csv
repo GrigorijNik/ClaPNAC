@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-1231,A-184,1.0,+,G-ASN,
+A-1231,A-147,1.0,-,G-HIS,
+A-1231,A-147,1.0,+,G-HIS,
+A-1231,A-149,1.0,W,G-GLU,

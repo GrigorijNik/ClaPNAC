@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-400,A-74,0.94,H,ADP-THR,
+A-400,A-103,1.0,3',ADP-TYR,
+A-400,A-103,0.84,5',ADP-TYR,
+A-400,A-265,0.83,S,ADP-GLY,

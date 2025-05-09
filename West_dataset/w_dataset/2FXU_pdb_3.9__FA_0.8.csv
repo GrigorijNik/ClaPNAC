@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-401,A-214,0.82,5',ATP-GLU,
+A-401,A-305,0.93,W,ATP-MET,
+A-401,A-305,0.84,W,ATP-MET_Backbone,

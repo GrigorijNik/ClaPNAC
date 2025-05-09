@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+C-12,A-72,1.0,5',DT-PHE,
+C-13,A-68,1.0,W,DT-SER,
+E-15,A-75,1.0,5',DA-LYS,
+A-400,A-238,1.0,W,UDP-ILE_Backbone,

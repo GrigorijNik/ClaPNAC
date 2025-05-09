@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-58,0.9,H,GDP-HIS,
+A-501,A-67,0.81,3',GDP-LEU,
+A-501,A-63,1.0,3',GDP-PHE,
+A-501,A-63,0.93,5',GDP-PHE,
+A-501,A-63,0.8,3',GDP-PHE_Backbone,
+A-501,A-119,0.96,3',GDP-ILE,
+A-501,A-119,0.9,S,GDP-ILE_Backbone,

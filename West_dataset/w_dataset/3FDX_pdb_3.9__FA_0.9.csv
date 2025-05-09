@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-7,1.0,5',ATP-ASP,
+A-301,A-92,0.94,3',ATP-PRO,
+A-301,A-37,1.0,W,ATP-VAL,
+A-301,A-37,1.0,W,ATP-VAL_Backbone,
+A-301,A-6,0.96,S,ATP-ILE_Backbone,

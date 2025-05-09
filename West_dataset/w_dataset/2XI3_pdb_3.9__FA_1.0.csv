@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1001,A-556,1.0,S,GTP-SER_Backbone,
+A-1001,A-557,1.0,3',GTP-GLY,
+A-1002,A-141,1.0,H,GTP-LYS,
+A-1003,A-73,1.0,W,GTP-ALA_Backbone,
+A-1003,A-77,1.0,H,GTP-LYS,
+A-1003,A-74,1.0,W,GTP-ALA,

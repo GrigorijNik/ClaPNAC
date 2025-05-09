@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-160,0.91,5',AMP-LYS,
+A-501,A-46,0.9,W,AMP-GLY_Backbone,
+A-501,A-187,1.0,W,AMP-VAL,
+A-501,A-187,1.0,W,AMP-VAL_Backbone,

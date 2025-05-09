@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-89,1.0,H,ADP-GLN,
+A-300,A-86,0.94,3',ADP-SER,
+A-300,A-86,0.84,5',ADP-SER,
+A-300,A-86,0.84,H,ADP-SER,

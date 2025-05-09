@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-252,A-173,0.92,5',GTP-ASN,
+A-252,A-172,1.0,3',GTP-TYR,
+A-252,A-172,1.0,5',GTP-TYR,
+A-254,A-98,1.0,3',CTP-ARG,

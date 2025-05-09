@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+C-8,A-300,1.0,R,C-SER,
+C-9,A-206,1.0,P,C-HIS,
+C-9,A-304,1.0,R,C-PHE,
+C-9,A-264,1.0,W,C-THR,
+C-10,A-202,0.92,H,A-MET,

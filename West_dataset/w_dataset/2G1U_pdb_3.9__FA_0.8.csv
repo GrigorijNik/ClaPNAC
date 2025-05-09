@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-80,0.85,H,AMP-THR,
+A-301,A-38,1.0,3',AMP-LYS,
+A-301,A-38,1.0,5',AMP-LYS,
+A-301,A-59,1.0,W,AMP-ALA,
+A-301,A-85,0.82,W,AMP-THR,

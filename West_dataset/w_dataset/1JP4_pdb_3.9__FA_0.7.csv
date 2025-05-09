@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-601,A-198,1.0,5',AMP-HIS,
+A-601,A-198,0.86,3',AMP-HIS,
+A-601,A-198,0.78,H,AMP-HIS,
+A-601,A-242,0.86,3',AMP-GLY_Backbone,
+A-601,A-242,0.76,W,AMP-GLY_Backbone,
+A-601,A-242,0.7,5',AMP-GLY_Backbone,
+A-601,A-238,0.71,5',AMP-PHE,

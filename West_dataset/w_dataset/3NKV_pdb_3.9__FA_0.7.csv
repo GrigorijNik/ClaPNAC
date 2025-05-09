@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-600,A-77,0.7,H,AMP-TYR,
+A-600,A-45,1.0,3',AMP-PHE,
+A-600,A-45,0.94,5',AMP-PHE,
+A-600,A-45,0.72,H,AMP-PHE,

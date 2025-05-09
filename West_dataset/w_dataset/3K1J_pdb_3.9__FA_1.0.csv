@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-642,A-75,1.0,5',ADP-MET,
+A-642,A-44,1.0,W,ADP-ILE_Backbone,
+A-642,A-43,1.0,W,ADP-VAL,
+B-642,B-44,1.0,W,ADP-ILE_Backbone,

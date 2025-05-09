@@ -1,0 +1,14 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6216	X	O2'	-63.305	5.717	16.479	3.01746
+1	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6216	X	O2'	-63.305	5.717	16.479	3.01746
+2	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O4'	-64.083	7.722	18.448	3.76134
+3	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O4'	-64.083	7.722	18.448	3.76134
+4	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O3'	-65.189	10.18	16.842	3.33759
+5	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O3'	-65.189	10.18	16.842	3.33759
+6	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O2	-66.079	5.172	16.873	3.28559
+7	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	U	6217	X	O2	-66.079	5.172	16.873	3.28559
+8	4D5N_prot_split.pdb	57	57	Lipophilic	5	-66.756	9.247	14.67	U	6217	X	C3'	-65.077	9.879	18.233	3.9892
+9	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	A	6218	X	OP1	-64.613	11.015	14.664	3.52003
+10	4D5N_prot_split.pdb	57	57	HB	8	-65.06	7.527	14.821	A	6218	X	OP1	-64.613	11.015	14.664	3.52003
+11	4D5N_prot_split.pdb	59	59	HB	9	-71.021	9.2	16.725	U	6217	X	O2'	-67.396	9.041	18.023	3.85366
+12	4D5N_prot_split.pdb	59	59	HB	9	-71.021	9.2	16.725	U	6217	X	O2'	-67.396	9.041	18.023	3.85366

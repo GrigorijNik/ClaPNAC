@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-305,A-62,1.0,5',ATP-ASN,
+A-305,A-60,0.98,S,ATP-SER,
+A-305,A-108,1.0,W,ATP-ILE_Backbone,
+A-305,A-110,0.81,W,ATP-HIS,
+A-305,A-61,0.92,S,ATP-TYR_Backbone,

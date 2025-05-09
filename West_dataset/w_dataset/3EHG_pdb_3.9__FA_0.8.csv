@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1,A-324,1.0,3',ATP-PHE,
+A-1,A-324,0.8,5',ATP-PHE,
+A-1,A-359,0.86,W,ATP-THR,
+A-1,A-294,0.82,W,ATP-VAL,
+A-1,A-294,0.81,5',ATP-VAL,
+A-1,A-298,0.82,5',ATP-SER,

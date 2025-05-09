@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+T-1,A-786,1.0,W,T-ASN,
+T-2,A-219,1.0,H,C-GLU,
+T-3,A-359,1.0,-,A-PHE,
+T-4,A-568,1.0,-,G-GLY,
+T-4,A-565,1.0,-,G-SER_Backbone,
+T-5,A-568,1.0,-,G-GLY,

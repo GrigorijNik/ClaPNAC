@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-281,A-211,1.0,H,ATP-THR,
+A-281,A-204,1.0,W,ATP-LEU,
+A-281,A-204,1.0,W,ATP-LEU_Backbone,

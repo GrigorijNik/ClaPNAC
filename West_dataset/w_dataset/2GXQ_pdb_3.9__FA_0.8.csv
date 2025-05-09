@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-401,A-28,1.0,H,AMP-GLN,
+A-401,A-21,0.94,S,AMP-LEU,
+A-401,A-25,0.86,W,AMP-THR,

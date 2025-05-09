@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-459,A-16,1.0,S,ATP-ALA,
+A-459,A-42,1.0,W,ATP-ALA,
+A-459,A-42,1.0,W,ATP-ALA_Backbone,
+A-459,A-41,0.84,S,ATP-THR,
+A-459,A-17,0.88,S,ATP-PHE_Backbone,

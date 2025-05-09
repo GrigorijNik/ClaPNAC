@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-214,A-157,1.0,S,T-ILE,
+A-214,A-107,1.0,-,T-GLN,
+A-214,A-107,1.0,W,T-GLN,
+A-214,A-76,1.0,H,T-ARG,
+A-214,A-103,1.0,+,T-SER_Backbone,
+A-214,A-103,1.0,W,T-SER_Backbone,

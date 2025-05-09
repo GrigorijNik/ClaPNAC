@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-225,A-17,1.0,5',ADP-VAL,
+A-225,A-210,0.82,5',ADP-PRO,
+A-225,A-176,0.82,W,ADP-ASP_Backbone,
+A-225,A-206,0.94,W,ADP-LEU,
+A-225,A-206,0.8,W,ADP-LEU_Backbone,

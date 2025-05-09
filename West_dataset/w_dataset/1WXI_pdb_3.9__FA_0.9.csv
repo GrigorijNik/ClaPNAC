@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-260,0.98,3',AMP-HIS,
+A-400,A-142,0.9,W,AMP-ARG,
+A-400,A-83,0.92,W,AMP-LEU,
+A-400,A-83,1.0,W,AMP-LEU_Backbone,
+A-400,A-82,0.9,W,AMP-ARG,

@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1001,A-10,1.0,5',ATP-ASP,
+A-1001,A-8,1.0,S,ATP-ALA,
+A-1001,A-87,0.9,3',ATP-PRO,
+A-1001,A-87,0.9,5',ATP-PRO,
+A-1001,A-38,1.0,W,ATP-ALA,
+A-1001,A-38,1.0,W,ATP-ALA_Backbone,

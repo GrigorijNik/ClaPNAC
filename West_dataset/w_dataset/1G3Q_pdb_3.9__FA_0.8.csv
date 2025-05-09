@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-238,A-172,0.84,W,ADP-ARG,
+A-238,A-203,0.96,3',ADP-ILE,
+A-238,A-203,0.8,S,ADP-ILE,
+A-238,A-200,0.8,W,ADP-ASP_Backbone,

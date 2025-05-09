@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-701,A-229,1.0,W,UDP-PRO_Backbone,
+A-701,A-229,0.94,5',UDP-PRO_Backbone,
+B-702,B-229,1.0,W,UDP-PRO_Backbone,
+B-702,B-229,0.94,5',UDP-PRO_Backbone,
+B-702,B-231,0.92,3',UDP-GLU,

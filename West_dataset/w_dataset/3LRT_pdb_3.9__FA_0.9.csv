@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-300,B-32,1.0,3',ADP-PHE,
+A-300,B-32,0.96,5',ADP-PHE,
+B-300,A-32,1.0,3',ADP-PHE,
+B-300,A-32,0.96,5',ADP-PHE,

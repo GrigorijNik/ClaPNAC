@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-307,A-118,0.82,5',ADP-GLY_Backbone,
+A-307,A-101,0.86,W,ADP-TYR,
+A-307,B-15,0.92,3',ADP-ILE,
+B-307,B-118,0.84,5',ADP-GLY_Backbone,
+B-307,B-101,0.84,W,ADP-TYR,
+B-307,A-15,0.9,3',ADP-ILE,

@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-1,A-77,0.81,H,ATP-PRO,
+A-1,A-75,0.88,3',ATP-SER,
+A-1,A-75,0.8,H,ATP-SER,
+A-1,A-68,0.91,H,ATP-THR,
+A-1,A-65,0.89,5',ATP-LEU,
+A-1,A-65,0.81,3',ATP-LEU,
+A-1,A-64,0.88,W,ATP-SER,

@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1482,A-402,0.74,H,ADP-GLY,
+A-1482,A-402,0.73,3',ADP-GLY_Backbone,
+A-1482,A-403,0.76,3',ADP-GLY_Backbone,
+A-1482,A-405,0.92,5',ADP-GLN,
+A-1482,A-405,0.88,3',ADP-GLN,
+A-1482,A-405,0.72,W,ADP-GLN_Backbone,

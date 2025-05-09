@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+D-1,A-275,1.0,3',DG-ARG_Backbone,
+D-1,A-278,1.0,3',DG-GLY,
+T-7,A-544,1.0,W,DT-LYS_Backbone,
+T-7,A-547,1.0,H,DT-PRO,

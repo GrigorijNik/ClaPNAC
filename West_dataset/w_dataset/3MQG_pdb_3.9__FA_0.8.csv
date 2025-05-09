@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+B-192,A-27,0.86,S,UDP-HIS,
+B-192,B-24,0.84,S,UDP-HIS,
+C-192,B-27,0.86,S,UDP-HIS,
+C-192,C-24,0.84,S,UDP-HIS,

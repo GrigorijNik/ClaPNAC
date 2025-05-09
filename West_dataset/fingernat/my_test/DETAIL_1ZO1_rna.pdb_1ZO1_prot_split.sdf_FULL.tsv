@@ -1,0 +1,8 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	1ZO1_prot_split.pdb	485	485	HB	10	-10.73	-25.347	-12.583	C	75	F	O2'	-7.497	-25.312	-13.296	3.31087
+1	1ZO1_prot_split.pdb	485	485	HB	10	-10.73	-25.347	-12.583	C	75	F	O2'	-7.497	-25.312	-13.296	3.31087
+2	1ZO1_prot_split.pdb	485	485	HB	10	-10.73	-25.347	-12.583	C	75	F	O2	-9.123	-23.916	-10.169	3.23382
+3	1ZO1_prot_split.pdb	485	485	HB	10	-10.73	-25.347	-12.583	C	75	F	O2	-9.123	-23.916	-10.169	3.23382
+4	1ZO1_prot_split.pdb	485	485	Lipophilic	7	-9.303	-22.852	-12.978	C	75	F	C2'	-7.03	-25.467	-11.949	3.6144
+5	1ZO1_prot_split.pdb	488	488	HB	7	-7.116	-21.599	-16.206	A	76	F	O4'	-3.798	-23.238	-17.141	3.81702
+6	1ZO1_prot_split.pdb	488	488	HB	7	-7.116	-21.599	-16.206	A	76	F	O3'	-6.002	-23.527	-19.048	3.61042

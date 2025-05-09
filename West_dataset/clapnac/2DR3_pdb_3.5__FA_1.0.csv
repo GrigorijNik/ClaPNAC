@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-3801,B-216,1.0,S,A-SER,
+B-3802,C-216,1.0,S,A-SER,
+C-3803,D-216,1.0,S,A-SER,
+F-3806,A-215,1.0,-,A-THR_Backbone,
+F-3806,A-216,1.0,S,A-SER,

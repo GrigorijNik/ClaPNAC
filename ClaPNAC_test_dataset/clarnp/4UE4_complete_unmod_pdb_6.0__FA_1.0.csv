@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-150,C-401,1.0,R,C-ARG,
+A-150,C-401,1.0,R,C-ARG_Backbone,
+A-171,C-401,1.0,R,G-ARG,
+A-172,C-382,1.0,R,C-SER,
+A-172,C-382,1.0,R,C-SER_Backbone,
+A-172,C-383,1.0,R,C-MET_Backbone,
+A-173,C-384,1.0,P,A-THR,

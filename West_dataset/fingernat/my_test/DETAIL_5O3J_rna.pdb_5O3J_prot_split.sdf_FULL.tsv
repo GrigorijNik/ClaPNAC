@@ -1,0 +1,15 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	5O3J_prot_split.pdb	8	8	Lipophilic	9	-12.104	0.406	2.003	U	1	B	C2'	-9.616	3.248	1.727	3.7872
+1	5O3J_prot_split.pdb	8	8	Lipophilic	6	-14.26	0.832	1.003	U	1	B	C2	-12.45	4.001	-0.032	3.7934
+2	5O3J_prot_split.pdb	8	8	Lipophilic	7	-12.941	0.409	0.895	U	1	B	C2	-12.45	4.001	-0.032	3.742
+3	5O3J_prot_split.pdb	8	8	Lipophilic	6	-14.26	0.832	1.003	U	1	B	C4	-14.448	4.779	1.187	3.9558
+4	5O3J_prot_split.pdb	8	8	Lipophilic	8	-14.727	1.258	2.248	U	1	B	C4	-14.448	4.779	1.187	3.688
+5	5O3J_prot_split.pdb	8	8	Pi_Stacking	6,7,9,11,10,8	-13.41767	0.83183	2.124	U	1	B	N1,C2,N3,C4,C5,C6	-13.0345	4.64783	1.09383	3.97114
+6	5O3J_prot_split.pdb	47	47	HB	1	-7.234	-5.337	5.894	U	2	B	O2'	-6.607	-1.574	6.563	3.87309
+7	5O3J_prot_split.pdb	47	47	HB	1	-7.234	-5.337	5.894	U	2	B	O2'	-6.607	-1.574	6.563	3.87309
+8	5O3J_prot_split.pdb	48	48	HB	12	-5.931	-0.945	0.256	U	1	B	O5'	-7.475	1.675	-1.716	3.62452
+9	5O3J_prot_split.pdb	48	48	Lipophilic	7	-8.014	-1.721	3.161	U	2	B	C4'	-6.902	1.176	5.453	3.8578
+10	5O3J_prot_split.pdb	48	48	Lipophilic	9	-6.906	-1.373	2.4	U	2	B	C4'	-6.902	1.176	5.453	3.9772
+11	5O3J_prot_split.pdb	50	50	Lipophilic	11	-10.64	-0.618	-2.736	U	1	B	C5'	-8.753	2.153	-1.25	3.6671
+12	5O3J_prot_split.pdb	79	79	HB	8	-18.663	6.143	2.198	U	1	B	O4	-15.676	4.856	1.184	3.40687
+13	5O3J_prot_split.pdb	79	79	HB	8	-18.663	6.143	2.198	U	1	B	O4	-15.676	4.856	1.184	3.40687

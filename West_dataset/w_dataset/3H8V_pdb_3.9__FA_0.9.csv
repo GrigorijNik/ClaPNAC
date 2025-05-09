@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-402,A-182,1.0,5',ATP-VAL,
+A-402,A-182,0.92,W,ATP-VAL,
+A-402,A-105,0.91,3',ATP-TYR,
+A-402,A-105,0.91,5',ATP-TYR,

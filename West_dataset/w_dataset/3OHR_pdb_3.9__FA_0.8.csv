@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-231,0.88,W,ADP-VAL,
+A-300,A-231,0.82,W,ADP-VAL_Backbone,
+A-300,A-193,1.0,S,ADP-ALA,
+A-300,A-192,1.0,S,ADP-ALA,

@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-304,A-72,1.0,3',TYD-PHE,
+A-304,A-102,1.0,5',TYD-GLY_Backbone,
+A-304,A-102,1.0,W,TYD-GLY_Backbone,
+A-304,A-76,1.0,H,TYD-ARG,
+A-304,A-101,1.0,5',TYD-SER_Backbone,

@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-218,A-70,1.0,-,T-PHE,
+A-218,A-100,1.0,W,T-ASN_Backbone,
+A-218,A-74,1.0,H,T-ARG,

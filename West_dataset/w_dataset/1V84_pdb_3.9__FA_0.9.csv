@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-503,A-93,1.0,5',UDP-TYR,
+A-503,A-122,0.9,W,UDP-ASP_Backbone,
+A-503,A-153,0.9,W,UDP-LYS,
+B-504,B-93,1.0,5',UDP-TYR,
+B-504,B-122,0.9,W,UDP-ASP_Backbone,

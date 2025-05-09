@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-3001,A-284,1.0,P,C-LYS,
+A-3001,A-179,1.0,R,C-ASP,
+A-3001,A-84,1.0,R,C-LEU_Backbone,
+A-3001,A-160,1.0,-,C-SER,
+A-3001,A-160,1.0,W,C-SER,

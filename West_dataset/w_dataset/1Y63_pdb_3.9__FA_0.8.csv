@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-25,0.82,H,ADP-SER,
+A-301,A-117,0.83,3',ADP-ARG,
+A-301,A-160,0.94,W,ADP-THR_Backbone,
+A-301,A-164,0.94,5',ADP-MET,
+A-301,A-159,0.8,W,ADP-ASP_Backbone,
+A-301,A-161,0.88,W,ADP-LEU,

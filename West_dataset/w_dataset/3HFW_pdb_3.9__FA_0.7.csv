@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-358,A-270,0.94,S,ADP-SER,
+A-358,A-270,0.8,3',ADP-SER,
+A-358,A-127,1.0,5',ADP-GLY_Backbone,
+A-358,A-127,0.94,3',ADP-GLY_Backbone,
+A-358,A-127,0.8,W,ADP-GLY_Backbone,
+A-358,A-165,0.95,W,ADP-HIS,
+A-358,A-167,0.82,W,ADP-THR,

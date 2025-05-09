@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-311,A-11,0.92,5',UDP-TYR,
+A-311,A-39,0.92,W,UDP-ASP_Backbone,
+A-311,A-39,0.9,5',UDP-ASP_Backbone,
+A-311,A-76,0.9,W,UDP-ARG_Backbone,

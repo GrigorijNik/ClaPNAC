@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-171,A-112,1.0,H,ADP-THR_Backbone,
+A-171,A-112,0.9,W,ADP-THR_Backbone,
+A-171,A-111,0.93,3',ADP-LEU,
+A-171,A-98,1.0,W,ADP-ILE_Backbone,
+A-171,A-70,0.9,S,ADP-LEU,

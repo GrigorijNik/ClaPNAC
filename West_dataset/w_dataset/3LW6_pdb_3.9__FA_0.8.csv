@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-312,A-121,1.0,3',UDP-PHE,
+A-312,A-121,0.82,W,UDP-PHE,
+A-312,A-84,1.0,5',UDP-ARG_Backbone,
+A-312,A-84,1.0,W,UDP-ARG_Backbone,
+A-312,A-86,0.88,5',UDP-ARG,
+A-312,A-83,0.98,W,UDP-PHE_Backbone,

@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+B-800,B-67,1.0,S,ADP-THR,
+B-800,B-168,0.93,H,ADP-ARG,
+B-800,B-209,1.0,W,ADP-VAL,
+B-800,B-209,0.91,5',ADP-VAL,

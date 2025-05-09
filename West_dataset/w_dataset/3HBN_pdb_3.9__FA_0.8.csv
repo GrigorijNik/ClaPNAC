@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-219,1.0,5',UDP-ILE,
+A-301,A-189,0.88,5',UDP-ALA_Backbone,
+A-301,A-190,0.86,W,UDP-THR_Backbone,
+A-301,A-190,0.82,5',UDP-THR_Backbone,

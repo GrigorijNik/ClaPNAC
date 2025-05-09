@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-525,A-393,0.92,5',UMP-CYS_Backbone,
+A-525,A-420,1.0,W,UMP-GLY_Backbone,
+B-525,B-393,0.92,5',UMP-CYS_Backbone,
+B-525,B-420,1.0,W,UMP-GLY_Backbone,

@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-604,A-275,1.0,-,U-GLU,
+A-604,A-276,1.0,+,U-VAL_Backbone,
+A-604,A-276,1.0,W,U-VAL_Backbone,

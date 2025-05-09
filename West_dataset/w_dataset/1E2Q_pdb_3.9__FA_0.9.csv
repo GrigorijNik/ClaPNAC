@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-72,1.0,3',TMP-PHE,
+A-301,A-102,0.93,W,TMP-GLY,
+A-301,A-102,1.0,5',TMP-GLY_Backbone,
+A-301,A-102,1.0,W,TMP-GLY_Backbone,
+A-301,A-76,1.0,H,TMP-ARG,
+A-302,A-143,0.93,3',ATP-ARG,

@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-1296,A-273,1.0,W,GDP-SER_Backbone,
+A-1296,A-248,1.0,W,GDP-ASP,
+A-1296,A-274,1.0,S,GDP-GLU_Backbone,

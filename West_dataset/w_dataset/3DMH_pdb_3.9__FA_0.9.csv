@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-385,A-341,1.0,5',GMP-ASN,
+A-385,A-340,0.96,W,GMP-SER,
+A-385,A-305,0.92,5',GMP-ASN,

@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-97,B-14,1.0,R,U-GLY,
+A-97,B-71,1.0,W,U-GLY_Backbone,
+A-100,B-49,1.0,R,A-ARG,
+A-100,B-40,1.0,R,A-MET,
+A-100,B-53,1.0,3',A-PHE,
+A-101,B-40,1.0,P,A-MET,

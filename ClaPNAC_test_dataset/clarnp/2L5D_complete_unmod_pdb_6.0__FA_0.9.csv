@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+B-503,A-317,0.92,R,A-TYR,
+B-504,A-315,0.96,P,C-LYS,
+B-505,A-346,0.93,P,A-TYR,
+B-505,A-350,0.94,P,A-TYR,
+B-505,A-381,1.0,R,A-MET,

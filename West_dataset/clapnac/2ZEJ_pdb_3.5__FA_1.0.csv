@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1,B-1489,1.0,+,G-ASN,
+A-1,B-1455,1.0,W,G-ASP,
+B-2,A-1453,1.0,-,G-HIS,
+B-2,A-1453,1.0,+,G-HIS,
+B-2,A-1489,1.0,+,G-ASN,
+B-2,A-1455,1.0,W,G-ASP,

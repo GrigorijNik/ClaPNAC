@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-314,1.0,3',ATP-PHE,
+A-501,A-311,1.0,W,ATP-VAL,
+A-501,A-311,1.0,W,ATP-VAL_Backbone,
+B-501,B-311,1.0,W,ATP-VAL,
+B-501,B-311,1.0,W,ATP-VAL_Backbone,

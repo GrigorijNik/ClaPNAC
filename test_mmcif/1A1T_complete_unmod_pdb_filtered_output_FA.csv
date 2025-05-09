@@ -1,0 +1,7 @@
+N_chain N_res,AA_chain AA_res,N-AA,class, weight,
+B-206,A-10,A-ARG,P,0.72,
+B-206,A-7,A-ARG,5',0.52,H,0.59,
+B-210,A-36,G-CYS,W,0.58,
+B-211,A-25,A-ALA,W,0.5,
+B-211,A-32,A-ARG,5',0.52,W,0.56,
+B-212,A-25,G-ALA,H,0.54,

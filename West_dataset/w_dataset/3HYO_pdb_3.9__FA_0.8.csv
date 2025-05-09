@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-281,A-211,1.0,H,ADP-THR,
+A-281,A-204,1.0,W,ADP-LEU,
+A-281,A-204,1.0,W,ADP-LEU_Backbone,
+A-281,A-203,0.9,W,ADP-ARG,
+A-281,A-185,0.86,3',ADP-ILE,

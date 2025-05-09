@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-601,A-176,0.92,W,UDP-ASP_Backbone,
+A-601,A-203,1.0,W,UDP-GLY_Backbone,
+A-601,A-204,0.9,W,UDP-LEU_Backbone,
+A-601,A-330,0.92,W,UDP-VAL_Backbone,

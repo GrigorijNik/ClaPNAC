@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+A-500,A-14,0.94,5',ADP-PHE,
+A-500,A-14,0.89,3',ADP-PHE,
+A-500,A-15,1.0,W,ADP-PHE_Backbone,

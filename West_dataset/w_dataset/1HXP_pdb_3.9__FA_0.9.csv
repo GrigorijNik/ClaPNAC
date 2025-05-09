@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+B-352,B-78,0.9,5',UDP-ASP_Backbone,
+B-352,B-78,0.9,W,UDP-ASP_Backbone,
+B-352,B-62,0.94,W,UDP-THR,

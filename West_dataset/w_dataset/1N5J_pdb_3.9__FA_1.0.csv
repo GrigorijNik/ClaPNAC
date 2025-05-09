@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-218,A-70,1.0,3',TYD-PHE,
+A-218,A-100,1.0,W,TYD-ASN_Backbone,
+A-218,A-99,1.0,5',TYD-SER,
+A-218,A-99,1.0,5',TYD-SER_Backbone,
+A-218,A-99,1.0,W,TYD-SER_Backbone,
+A-218,A-74,1.0,H,TYD-ARG,

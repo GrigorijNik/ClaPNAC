@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+B-8,A-112,0.91,S,DT-ARG,
+C-17,A-112,0.91,3',DA-ARG,
+C-18,A-220,1.0,W,UMP-SER_Backbone,
+C-18,A-220,0.94,5',UMP-SER_Backbone,
+C-18,A-225,0.9,5',UMP-TYR_Backbone,
+C-19,A-114,0.98,3',DG-PHE,

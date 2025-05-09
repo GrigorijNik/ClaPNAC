@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-500,A-224,1.0,W,A-LEU,
+A-500,A-224,1.0,W,A-LEU_Backbone,
+B-1500,B-1224,1.0,W,A-LEU,
+B-1500,B-1224,1.0,W,A-LEU_Backbone,

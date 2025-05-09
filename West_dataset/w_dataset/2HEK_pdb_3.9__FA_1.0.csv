@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-401,A-43,1.0,H,GDP-VAL_Backbone,
+A-401,B-5,1.0,3',GDP-PHE,
+A-401,B-24,1.0,W,GDP-ASP,
+A-402,A-5,1.0,3',GDP-PHE,

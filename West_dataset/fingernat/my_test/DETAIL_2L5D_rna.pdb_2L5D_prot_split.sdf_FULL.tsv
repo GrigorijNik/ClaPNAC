@@ -1,0 +1,15 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	2L5D_prot_split.pdb	47	47	HB	12	-5.298	4.353	2.556	A	505	B	OP1	-8.612	3.295	2.349	3.48494
+1	2L5D_prot_split.pdb	48	48	HB	8	-9.55	6.175	7.281	C	504	B	O2'	-11.396	4.647	5.654	2.89649
+2	2L5D_prot_split.pdb	48	48	HB	8	-9.55	6.175	7.281	C	504	B	O2'	-11.396	4.647	5.654	2.89649
+3	2L5D_prot_split.pdb	50	50	HB	9	-10.801	-0.1	8.796	C	504	B	OP2	-12.878	-1.344	6.46	3.36428
+4	2L5D_prot_split.pdb	50	50	HB	9	-10.801	-0.1	8.796	C	504	B	OP2	-12.878	-1.344	6.46	3.36428
+5	2L5D_prot_split.pdb	50	50	HB	9	-10.801	-0.1	8.796	C	504	B	OP2	-12.878	-1.344	6.46	3.36428
+6	2L5D_prot_split.pdb	52	52	HB	12	-8.553	-0.132	4.415	C	504	B	OP1	-11.122	-1.827	4.651	3.08682
+7	2L5D_prot_split.pdb	81	81	HB	12	-6.321	5.908	-0.329	A	505	B	OP2	-9.472	5.551	1.477	3.64937
+8	2L5D_prot_split.pdb	81	81	HB	12	-6.321	5.908	-0.329	A	505	B	O3'	-8.307	3.881	-2.492	3.56812
+9	2L5D_prot_split.pdb	85	85	HB	12	-11.255	7.553	4.039	C	504	B	O3'	-10.84	4.197	3.064	3.51932
+10	2L5D_prot_split.pdb	85	85	HB	12	-11.255	7.553	4.039	C	504	B	O2'	-11.396	4.647	5.654	3.3276
+11	2L5D_prot_split.pdb	85	85	HB	12	-11.255	7.553	4.039	A	505	B	OP2	-9.472	5.551	1.477	3.70823
+12	2L5D_prot_split.pdb	116	116	HB	1	-5.92	0.508	-2.389	A	505	B	O4'	-9.63	1.087	-1.864	3.79143
+13	2L5D_prot_split.pdb	116	116	HB	1	-5.92	0.508	-2.389	A	505	B	O4'	-9.63	1.087	-1.864	3.79143

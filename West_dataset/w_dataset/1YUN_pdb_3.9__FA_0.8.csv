@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-223,A-177,0.86,W,ATP-VAL,
+A-223,A-22,1.0,S,ATP-SER,
+A-223,A-174,0.96,W,ATP-PRO,
+A-223,A-174,0.8,5',ATP-PRO,

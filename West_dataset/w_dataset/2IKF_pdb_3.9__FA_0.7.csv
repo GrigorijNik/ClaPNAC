@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-189,1.0,5',UTP-TYR,
+A-501,A-189,0.74,W,UTP-TYR,
+A-501,A-189,0.72,3',UTP-TYR,
+A-501,A-189,0.74,5',UTP-TYR_Backbone,
+A-501,A-147,0.72,S,UTP-ASN,
+A-501,A-144,0.7,W,UTP-GLY_Backbone,
