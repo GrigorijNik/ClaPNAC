@@ -5,7 +5,7 @@
  As a result you will see the score from 0 to 1 for each class.
 
 ```
-NA_id	P_id	weight	type	N-AA
+NA_id	P_id	score	type	N-AA
 
 B-203   A-4     0.63    P       A-GLY
 
