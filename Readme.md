@@ -23,9 +23,13 @@ Takes all files in .pdb or .cif from input directory and annotate N-AA contacts.
 The results are saving into csv files. ([inputfile]_[representation]_[threshold].csv)
 
 -i input directory
+
 -t full atom (FA) or coarse-grained (CGR) representation will be used
+
 -o threshold for output scores, doublets esimated with the score lower than threshold will be not included in the report file
+
 -r is a range number for ContExt, means the maximum distance for the contacts.
+
 -s option is for sequence: it shows sequence and mark * residues making interactions with score > 0.5
 
 Please see the examples in **test** directory
