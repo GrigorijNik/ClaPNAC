@@ -40,3 +40,4 @@ Please see the examples in **test** directory
  python -i [input directory] -t [FA or CGR] -o [float number] -r [float number] -s
  ```
 
+https://doi.org/10.5281/zenodo.15423174
