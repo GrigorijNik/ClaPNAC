@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+C-9,A-451,1.0,P,C-LYS,
+C-9,A-442,1.0,R,C-TYR_Backbone,
+C-10,A-451,1.0,P,G-LYS,
+D-10,A-328,1.0,R,C-TRP,
+D-10,A-328,1.0,P,C-TRP,
+D-11,A-158,1.0,R,C-TYR,
+D-12,A-155,1.0,P,G-LYS,

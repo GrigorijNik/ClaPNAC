@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+X-21,A-301,1.0,P,A-TRP,
+X-21,A-245,1.0,R,A-THR,
+X-22,A-245,1.0,P,A-THR,
+X-22,A-302,1.0,P,A-GLY,
+X-24,A-285,1.0,H,C-ARG_Backbone,
+X-27,A-286,1.0,W,T-GLN,
+X-28,A-268,1.0,W,T-SER,

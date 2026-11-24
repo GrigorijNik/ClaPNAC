@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+F-3,A-393,1.0,S,C-ARG,
+E-10,A-488,1.0,P,G-LYS,
+E-11,A-528,1.0,P,C-HIS,
+E-11,A-392,1.0,R,C-GLY,
+E-11,A-392,1.0,R,C-GLY_Backbone,
+E-11,A-393,1.0,S,C-ARG,

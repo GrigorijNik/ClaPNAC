@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1001,A-318,0.72,H,A-GLY,
+A-1001,A-318,0.76,W,A-GLY_Backbone,
+A-1001,A-319,0.7,S,A-ALA,
+A-1001,A-319,0.87,+,A-ALA_Backbone,
+A-1001,A-320,0.76,W,A-PRO,
+A-1001,A-436,0.92,S,A-ILE,

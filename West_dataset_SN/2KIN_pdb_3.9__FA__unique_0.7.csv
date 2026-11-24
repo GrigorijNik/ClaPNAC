@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-400,A-94,0.85,+,A-HIS,
+A-400,A-16,0.71,H,A-ARG,
+A-400,A-17,0.85,W,A-PRO,
+A-400,A-17,0.74,W,A-PRO_Backbone,
+A-400,A-14,0.94,W,A-ARG,

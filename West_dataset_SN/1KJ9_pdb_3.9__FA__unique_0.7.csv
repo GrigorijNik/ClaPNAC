@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-1,A-269,0.75,+,A-PHE,
+A-1,A-195,0.83,H,A-GLU,
+A-1,A-197,1.0,W,A-VAL,
+A-1,A-198,1.0,W,A-VAL,
+B-395,B-269,0.79,-,A-PHE,
+B-395,B-195,0.8,W,A-GLU,
+B-395,B-198,1.0,W,A-VAL,

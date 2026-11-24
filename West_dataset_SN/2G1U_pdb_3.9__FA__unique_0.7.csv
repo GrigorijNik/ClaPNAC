@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-80,0.85,H,A-THR,
+A-301,A-38,0.84,-,A-LYS,
+A-301,A-59,1.0,W,A-ALA,
+A-301,A-59,0.7,W,A-ALA_Backbone,
+A-301,A-85,0.82,W,A-THR,

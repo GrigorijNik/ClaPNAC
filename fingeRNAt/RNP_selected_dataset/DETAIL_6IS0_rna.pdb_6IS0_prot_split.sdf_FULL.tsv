@@ -1,0 +1,5 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	6IS0_prot_split.pdb	108	108	HB	9	12.411	23.7	18.915	A	2	B	OP2	12.044	25.148	15.998	3.27724
+1	6IS0_prot_split.pdb	108	108	HB	9	12.411	23.7	18.915	A	2	B	OP2	12.044	25.148	15.998	3.27724
+2	6IS0_prot_split.pdb	158	158	HB	1	18.997	26.492	20.106	G	1	B	OP1	17.865	27.16	17.313	3.08683
+3	6IS0_prot_split.pdb	158	158	HB	1	18.997	26.492	20.106	G	1	B	OP1	17.865	27.16	17.313	3.08683

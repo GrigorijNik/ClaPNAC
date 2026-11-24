@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-1380,A-302,0.78,H,A-GLY,
+A-1380,A-214,0.72,W,A-GLU_Backbone,
+A-1380,A-305,0.95,W,A-MET,
+A-1380,A-305,0.78,W,A-MET_Backbone,
+A-1380,A-306,0.75,W,A-TYR,

@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-700,A-216,0.88,H,A-PRO,
+A-700,A-21,0.78,+,A-PRO,
+A-700,A-27,0.81,+,A-PHE,
+A-700,A-180,0.9,H,A-TYR,
+A-700,A-28,1.0,W,A-ILE_Backbone,
+A-700,A-188,0.7,S,A-ILE,

@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-401,A-106,0.74,W,A-VAL,
+A-401,A-118,1.0,W,A-VAL,
+A-401,A-167,0.72,W,A-PRO,
+A-401,A-179,0.85,W,A-MET,
+A-401,A-181,1.0,W,A-LEU,
+A-401,A-182,0.8,S,A-ILE,
+A-401,A-182,0.72,W,A-ILE_Backbone,

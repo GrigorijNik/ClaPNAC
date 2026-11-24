@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-1259,A-211,0.79,H,A-THR,
+A-1259,A-211,0.84,W,A-THR_Backbone,
+A-1259,A-186,0.98,W,A-LEU,
+A-1259,A-186,1.0,W,A-LEU_Backbone,
+A-1259,A-210,0.7,W,A-ILE_Backbone,

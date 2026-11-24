@@ -1,0 +1,13 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3L26_prot_split.pdb	17	17	Lipophilic	2	-5.035	0.141	8.253	U	5	F	C5'	-2.252	2.048	7.029	3.5889
+1	3L26_prot_split.pdb	17	17	Lipophilic	2	-5.035	0.141	8.253	U	5	F	C4'	-2.204	1.009	5.921	3.7691
+2	3L26_prot_split.pdb	55	55	HB	6	-8.487	1.425	-4.955	G	6	C	O3'	-5.796	2.346	-5.931	3.00704
+3	3L26_prot_split.pdb	55	55	HB	6	-8.487	1.425	-4.955	G	6	C	O2'	-5.722	2.673	-3.147	3.53151
+4	3L26_prot_split.pdb	55	55	HB	6	-8.487	1.425	-4.955	C	7	C	OP1	-7.257	3.101	-7.734	3.47055
+5	3L26_prot_split.pdb	57	57	HB	9	-6.742	2.048	0.497	G	6	C	O2'	-5.722	2.673	-3.147	3.83533
+6	3L26_prot_split.pdb	57	57	HB	9	-6.742	2.048	0.497	G	6	C	O2'	-5.722	2.673	-3.147	3.83533
+7	3L26_prot_split.pdb	92	92	Lipophilic	5	0.095	14.031	7.669	C	3	F	C5'	1.641	13.087	4.224	3.8922
+8	3L26_prot_split.pdb	93	93	HB	6	-3.948	13.259	4.978	C	3	F	O2'	-2.138	10.92	3.923	3.14007
+9	3L26_prot_split.pdb	123	123	HB	9	-6.591	13.941	-1.664	G	8	C	O4'	-5.968	11.798	-3.906	3.16341
+10	3L26_prot_split.pdb	123	123	HB	9	-6.591	13.941	-1.664	G	8	C	O2'	-5.829	14.896	-4.015	2.6495
+11	3L26_prot_split.pdb	123	123	Lipophilic	7	-8.692	11.518	-1.074	G	8	C	C4'	-7.136	12.272	-4.636	3.9595

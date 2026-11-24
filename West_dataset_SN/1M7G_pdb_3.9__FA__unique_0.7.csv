@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+B-1304,B-37,0.72,H,A-GLY,
+B-1304,B-40,0.72,H,A-THR,
+B-1304,B-148,0.86,W,A-ARG,
+B-1304,B-187,0.7,W,A-LEU_Backbone,

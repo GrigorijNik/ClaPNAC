@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-260,0.83,W,A-HIS,
+A-400,A-48,0.7,S,A-SER_Backbone,
+A-400,A-142,0.9,W,A-ARG,
+A-400,A-83,0.92,W,A-LEU,
+A-400,A-83,1.0,W,A-LEU_Backbone,
+A-400,A-82,0.9,W,A-ARG,
+A-400,A-47,0.84,S,A-ILE_Backbone,

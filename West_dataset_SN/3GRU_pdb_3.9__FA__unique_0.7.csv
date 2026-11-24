@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-103,0.95,H,A-PRO,
+A-300,A-60,0.82,-,A-ILE,
+A-300,A-85,0.88,W,A-ALA,
+A-300,A-84,0.72,W,A-ASP,

@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-358,A-270,0.94,S,A-SER,
+A-358,A-127,0.87,+,A-GLY_Backbone,
+A-358,A-165,0.95,W,A-HIS,
+A-358,A-167,0.82,W,A-THR,

@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-541,A-256,0.9,S,A-THR,
+A-541,A-449,0.78,H,A-ARG,
+A-541,A-452,0.89,-,A-ILE,
+A-541,A-455,0.86,W,A-THR,
+A-541,A-441,0.88,W,A-THR,

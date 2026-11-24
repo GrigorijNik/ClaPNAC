@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-181,0.88,H,U-ASN,
+A-501,A-183,0.79,W,U-PHE,
+A-501,A-141,0.7,S,U-ASN,
+A-501,A-342,0.84,W,U-CYS_Backbone,
+A-501,A-345,0.79,H,U-ARG,

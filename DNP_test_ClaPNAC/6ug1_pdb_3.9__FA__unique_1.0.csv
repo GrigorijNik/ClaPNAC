@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+Y-11,A-352,1.0,P,C-VAL,
+Y-13,A-437,1.0,P,A-SER,
+Y-14,A-477,1.0,P,T-LYS,
+Y-17,A-129,1.0,S,C-ARG,
+Y-18,A-129,1.0,R,G-ARG,
+W-6,A-454,1.0,P,T-LYS,
+W-9,A-130,1.0,R,A-ASN_Backbone,

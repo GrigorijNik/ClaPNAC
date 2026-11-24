@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-801,A-338,0.72,H,A-GLY,
+A-801,A-338,0.82,W,A-GLY_Backbone,
+A-801,A-361,0.78,+,A-TYR,
+A-801,A-339,0.92,W,A-GLU_Backbone,
+A-801,A-359,0.8,W,A-GLU,
+A-801,A-340,0.74,W,A-SER,
+A-801,A-340,0.7,W,A-SER_Backbone,

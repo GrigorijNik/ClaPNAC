@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-301,A-146,1.0,H,A-PRO,
+A-301,A-165,0.85,-,A-PHE,
+A-301,A-266,0.72,+,A-LYS,
+A-301,A-161,0.94,W,A-ARG,
+A-301,A-162,0.8,W,A-SER,

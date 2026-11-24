@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-405,A-241,0.86,H,A-HIS,
+A-405,A-241,0.94,W,A-HIS_Backbone,
+A-405,A-281,0.8,W,A-ARG,
+A-405,A-288,0.72,+,A-TYR,

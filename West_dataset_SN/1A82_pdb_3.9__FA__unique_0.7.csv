@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-802,A-17,0.97,+,A-VAL,
+A-802,A-210,0.8,+,A-PRO,
+A-802,A-175,0.79,H,A-ASN,
+A-802,A-176,0.86,W,A-ASP_Backbone,
+A-802,A-205,0.7,S,A-TRP,
+A-802,A-206,0.94,W,A-LEU,
+A-802,A-206,0.82,W,A-LEU_Backbone,

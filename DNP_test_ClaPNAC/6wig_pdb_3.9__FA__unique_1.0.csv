@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+C-10,B-96,1.0,R,T-ARG,
+C-11,B-144,1.0,P,G-TRP,
+C-11,B-97,1.0,R,G-TRP,
+C-11,B-97,1.0,R,G-TRP_Backbone,
+C-12,B-97,1.0,P,A-TRP,
+D-11,B-151,1.0,H,T-ARG,

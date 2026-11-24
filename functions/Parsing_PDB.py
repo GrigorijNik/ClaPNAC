@@ -6,7 +6,7 @@ import ContExt_FA
 from alive_progress import alive_bar
 import numpy as np
 
-def Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl):
+def Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl, unique):
     res_ContExt = []
     seq_N_dot = []
     seq_P_dot = []
@@ -60,7 +60,7 @@ def Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl):
                 
                 AA_arr.append('Backbone')
                 
-                if len(x[2]) != 5 and type_score == "CGR" or len(x[5])-3 != FA.FA[x[4]] and type_score == "FA" and x[4] != 'GLY':
+                if len(x[2]) != 5 and type_score == "CGR" or len(x[5])-3 != FA.FA[x[4]] and type_score == "FA" and x[4] not in ('GLY', 'ALA'):
                     print('Problems with input! This pair skipped!')
                     print(x[0], x[1], len(x[2]), x[3], x[4], len(x[5]))
                 else:
@@ -83,7 +83,7 @@ def Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl):
                                         t_sf  = (t_rmsd + t_pd) / 2 # Scoring function
                                         result_SF[cl_type] = t_sf
                                 except:
-                                    print("Problem with this pair:", x[0], x[1], len(x[2]), x[3], x[4])
+                                    print("Problem with this pair:", x[0], x[1], len(x[2]), x[3], x[4], len(x[5]))
 # ---------------------------------------------Only for testing------------------------------------------------------------------------------
                         # temp_cl = max(result_SF, key=result_SF.get)
                         # temp_sf = result_SF[temp_cl]
@@ -98,47 +98,111 @@ def Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl):
 
                         for res_t in result_SF_list:
                             t = float(f'{res_t[1]:.2f}')
+                            # k = t/0.65
+                            # k = float(f'{k:.2f}')
+                            # if k > 1.0:
+                            #     result_SF[res_t[0]] = 1
+                            # else:
+                            #     result_SF[res_t[0]] = k
+
+#//////////////////////////////// CHECK THRESHOLD 0.65 //////////////////////////////////////// 
+#/////////////////////////////// for custom thresholds uncomment code below ///////////////////
                             if res_t[0] in "PR":
                                 k = t / FA.Tholds[AA_type][res_t[0]]
                                 k = float(f'{k:.2f}')
-                                if k > 1.0:
-                                    result_SF[res_t[0]] = 1
-                                else:
-                                    result_SF[res_t[0]] = k
+                                result_SF[res_t[0]] = k
                             else:
                                 k = t / FA.Tholds[AA_type][N_type+res_t[0][0]]
                                 k = float(f'{k:.2f}')
-                                if k > 1.0:
-                                    result_SF[res_t[0]] = 1
-                                else:
-                                    result_SF[res_t[0]] = k
+                                result_SF[res_t[0]] = k
 
                         result_SF_list = sorted(result_SF.items(), key=lambda x: x[1], reverse=True)
 
-                        for res_t in result_SF_list:
-                            t = float(f'{res_t[1]:.2f}')
-                            if t >= output:
-                                res_file.write(x[0] + ',')
-                                res_file.write(x[3] + ',')
-                                Int_type = res_t[0]
-                                if Int_type == "5'":
-                                    Int_type = "+"
-                                if Int_type == "3'":
-                                    Int_type = "-"
-                                res_file.write(str(t) + ',' + Int_type + ',')
-                                if AA_type == 'Backbone':
-                                    res_file.write(N_type1 + '-' + AA_arr[0] + '_' + AA_type + ',')
-                                else:
-                                    res_file.write(N_type1 + '-' + AA_type + ',')
-                                if seq == 'yes':
-                                    seq_N_dot[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))] = '*'
-                                    seq_P_dot[seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = '*'
-                                    if contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] == 0:
-                                        contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class[res_t[0]]
-                                    else:
-                                        contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class['M']
-                                res_file.write('\n')
+                        # for res_t in result_SF_list:
+                        #     t = float(f'{res_t[1]:.2f}')
+                        #     unique_flag = True
+                        #     if not unique or res_t[0] in "PR":
+                        #         if t >= output:
+                        #             if t > 1.0:
+                        #                 t = 1.0
+                        #             res_file.write(x[0] + ',')
+                        #             res_file.write(x[3] + ',')
+                        #             Int_type = res_t[0]
+                        #             if Int_type == "5'":
+                        #                 Int_type = "+"
+                        #             if Int_type == "3'":
+                        #                 Int_type = "-"
+                        #             res_file.write(str(t) + ',' + Int_type + ',')
+                        #             if AA_type == 'Backbone':
+                        #                 res_file.write(N_type1 + '-' + AA_arr[0] + '_' + AA_type + ',')
+                        #             else:
+                        #                 res_file.write(N_type1 + '-' + AA_type + ',')
+                        #             if seq == 'yes':
+                        #                 seq_N_dot[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))] = '*'
+                        #                 seq_P_dot[seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = '*'
+                        #                 if contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] == 0:
+                        #                     contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class[res_t[0]]
+                        #                 else:
+                        #                     contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class['M']
+                        #             res_file.write('\n')
+                        #     if unique and unique_flag and res_t[0] not in "PR":
+                        #         if t >= output:
+                        #             if t > 1.0:
+                        #                 t = 1.0
+                        #             res_file.write(x[0] + ',')
+                        #             res_file.write(x[3] + ',')
+                        #             Int_type = res_t[0]
+                        #             if Int_type == "5'":
+                        #                 Int_type = "+"
+                        #             if Int_type == "3'":
+                        #                 Int_type = "-"
+                        #             res_file.write(str(t) + ',' + Int_type + ',')
+                        #             if AA_type == 'Backbone':
+                        #                 res_file.write(N_type1 + '-' + AA_arr[0] + '_' + AA_type + ',')
+                        #             else:
+                        #                 res_file.write(N_type1 + '-' + AA_type + ',')
+                        #             if seq == 'yes':
+                        #                 seq_N_dot[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))] = '*'
+                        #                 seq_P_dot[seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = '*'
+                        #                 if contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] == 0:
+                        #                     contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class[res_t[0]]
+                        #                 else:
+                        #                     contact_map[seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))][seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))] = map_class['M']
+                        #             res_file.write('\n')
+                        #             unique_flag = False
+                        ALWAYS_REPORT = {'P', 'R'}   # reported whenever above threshold
+                        unique_reported = False      # True once one W/H/S/3'/5' contact has been written
 
+                        for Int_class, score in result_SF_list:
+                            t = float(f'{score:.2f}')
+                            if t < output:
+                                break                # list is sorted descending, so nothing further can pass
+
+                            # unique mode: keep only the best contact among the non-P/R classes
+                            if unique and Int_class not in ALWAYS_REPORT:
+                                if unique_reported:
+                                    continue
+                                unique_reported = True
+
+                            t = min(t, 1.0)
+                            Int_type = {"5'": "+", "3'": "-"}.get(Int_class, Int_class)
+
+                            if AA_type == 'Backbone':
+                                label = f'{N_type1}-{AA_arr[0]}_{AA_type}'
+                            else:
+                                label = f'{N_type1}-{AA_type}'
+
+                            res_file.write(f'{x[0]},{x[3]},{t},{Int_type},{label},\n')
+
+                            if seq == 'yes':
+                                n_idx = seq_N.index((x[0].split('-')[0], x[1], int(x[0].split('-')[1])))
+                                p_idx = seq_P.index((x[3].split('-')[0], FA.Protein[x[4]], int(x[3].split('-')[1])))
+                                seq_N_dot[n_idx] = '*'
+                                seq_P_dot[p_idx] = '*'
+                                if contact_map[n_idx][p_idx] == 0:
+                                    contact_map[n_idx][p_idx] = map_class[Int_class]
+                                else:
+                                    contact_map[n_idx][p_idx] = map_class['M']   # multiple contact types
                         num_pairs_classified += 1
                 bar()
 

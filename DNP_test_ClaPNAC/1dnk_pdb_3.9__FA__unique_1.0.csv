@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+B-305,A-10,1.0,R,T-THR,
+B-306,A-14,1.0,P,A-THR,
+C-312,A-75,1.0,R,A-SER,
+C-313,A-76,1.0,R,T-TYR,
+C-315,A-134,1.0,P,C-HIS,
+C-316,A-211,1.0,P,C-TYR,

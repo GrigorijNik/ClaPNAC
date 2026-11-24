@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-398,A-204,0.74,W,A-ARG,
+A-398,A-192,1.0,H,A-TYR,
+A-398,A-18,0.72,W,A-LEU,
+A-398,A-19,0.93,W,A-PRO,
+A-398,A-19,0.9,W,A-PRO_Backbone,
+A-398,A-21,0.76,W,A-ARG,

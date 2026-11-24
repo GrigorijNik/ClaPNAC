@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-260,A-63,0.78,W,A-VAL,
+A-260,A-56,0.8,H,A-SER,
+A-260,A-78,0.82,W,A-ALA,
+A-260,A-135,0.72,W,A-PRO,
+A-260,A-150,0.82,S,A-ILE,
+A-260,A-150,0.72,W,A-ILE_Backbone,

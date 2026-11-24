@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-501,A-129,0.9,H,A-SER,
+A-501,A-130,0.74,W,A-ALA_Backbone,
+A-501,A-131,0.79,H,A-PRO,
+A-501,A-284,0.85,+,A-TYR,

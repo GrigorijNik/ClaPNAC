@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-1204,A-139,0.98,+,T-TYR,
+A-1204,A-139,0.98,W,T-TYR_Backbone,
+A-1204,B-28,0.98,W,T-LEU,
+B-1203,B-139,0.95,+,T-TYR,
+B-1203,B-139,0.98,W,T-TYR_Backbone,
+B-1203,A-28,0.98,W,T-LEU,
+B-1203,B-48,0.72,W,T-GLN,

@@ -1,0 +1,4 @@
+NA_id,P_id,score,type,N-AA,
+B-999,B-413,0.78,S,A-HIS_Backbone,
+B-999,B-410,0.72,S,A-ALA,
+B-999,B-531,0.88,W,A-THR,

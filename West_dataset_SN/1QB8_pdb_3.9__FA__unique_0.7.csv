@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+A-300,A-148,0.99,+,A-VAL,
+A-300,A-82,0.7,S,A-ARG,
+A-300,A-42,0.79,-,A-PHE,
+A-300,A-43,0.94,S,A-ALA,
+A-300,A-43,0.7,S,A-ALA_Backbone,

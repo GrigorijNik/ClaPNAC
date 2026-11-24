@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+W-20,B-147,1.0,P,G-SER,
+W-21,B-149,1.0,P,A-ALA,
+W-21,B-150,1.0,P,A-VAL,
+W-21,B-152,1.0,H,A-SER,
+W-32,A-203,1.0,P,G-HIS,
+W-33,A-153,1.0,H,C-ASN_Backbone,

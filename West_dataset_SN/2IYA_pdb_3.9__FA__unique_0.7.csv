@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1424,A-312,0.78,S,U-TRP,
+A-1424,A-312,0.94,W,U-TRP_Backbone,
+A-1424,A-315,0.8,W,U-GLN_Backbone,
+A-1424,A-313,0.96,W,U-VAL,
+A-1424,A-313,1.0,W,U-VAL_Backbone,
+A-1424,A-263,0.74,W,U-GLY_Backbone,

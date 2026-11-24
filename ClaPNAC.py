@@ -10,6 +10,7 @@ parser.add_argument('-m', '--model', help='enter model number: #1')
 parser.add_argument('-o', '--output', help='output threshold: float number from 0 to 1')
 parser.add_argument('-r', '--range_in', help='range for the ContExt: float number')
 parser.add_argument('-s', '--seq', action='store_true', help='sequence output with * when have interaction and . otherwise')
+parser.add_argument('-u', '--unique', action='store_true', help='output only one interaction with the highest score for each residue pair')
 
 args = parser.parse_args()
 
@@ -18,10 +19,11 @@ print('Start')
 compp = args.comparison or "No"
 in_dir  = args.in_dir + '/'
 type_in = args.type_in or "FA"
-output = float(args.output) if args.output else 0.5
-range_in = float(args.range_in) if args.range_in else 3.5
+output = float(args.output) if args.output else 1.0
+range_in = float(args.range_in) if args.range_in else 3.9
 seq = 'yes' if args.seq else 'no'
 mdl = args.model if args.model else "#1"
+unique = True if args.unique else False
 
 count = 0
 
@@ -45,8 +47,11 @@ if compp == "No":
                 else:
                     print("ERROR input")
                     break
+
+                if unique:
+                    out_file += '_unique_'
                         
-                Parsing_PDB.Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl)
+                Parsing_PDB.Parse_PDB(file, out_file, type_in, output, range_in, seq, mdl, unique)
 else:
     Compare_csv.Compare_csv(in_dir, compp)
         

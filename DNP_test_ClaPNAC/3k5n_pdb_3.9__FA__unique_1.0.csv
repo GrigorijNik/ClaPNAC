@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+T-815,A-755,1.0,P,G-ARG,
+T-815,A-701,1.0,R,G-PRO,
+T-816,A-699,1.0,R,G-VAL_Backbone,
+P-907,A-695,1.0,R,A-TYR,
+P-909,A-686,1.0,P,C-LYS,
+P-910,A-639,1.0,P,G-THR,

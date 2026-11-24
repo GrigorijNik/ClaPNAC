@@ -1,0 +1,10 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	4OQ9_prot_split.pdb	21	21	HB	6	-23.3	47.856	-37.698	A	165	M	O3'	-21.259	45.447	-36.452	3.39433
+1	4OQ9_prot_split.pdb	21	21	HB	6	-23.3	47.856	-37.698	A	165	M	O2'	-22.484	47.559	-34.876	2.95258
+2	4OQ9_prot_split.pdb	23	23	Lipophilic	7	-25.215	47.547	-31.903	A	165	M	C1'	-22.085	46.092	-32.968	3.6122
+3	4OQ9_prot_split.pdb	23	23	Lipophilic	6	-26.147	48.354	-29.716	U	187	b	C1'	-25.116	48.218	-26.184	3.6819
+4	4OQ9_prot_split.pdb	25	25	Lipophilic	5	-28.637	53.583	-24.886	U	187	b	C5'	-25.493	51.719	-25.47	3.7014
+5	4OQ9_prot_split.pdb	64	64	HB	11	-31.466	52.076	-20.645	U	188	b	OP1	-29.519	50.261	-22.57	3.28491
+6	4OQ9_prot_split.pdb	64	64	HB	11	-31.466	52.076	-20.645	U	188	b	OP1	-29.519	50.261	-22.57	3.28491
+7	4OQ9_prot_split.pdb	140	140	HB	6	-30.566	48.718	-26.628	U	187	b	O3'	-27.811	49.824	-24.3	3.77264
+8	4OQ9_prot_split.pdb	140	140	HB	6	-30.566	48.718	-26.628	U	187	b	O2'	-27.513	47.89	-26.402	3.17135

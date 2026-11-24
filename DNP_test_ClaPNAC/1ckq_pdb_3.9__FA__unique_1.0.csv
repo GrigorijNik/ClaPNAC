@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+B-5,A-148,1.0,P,G-LYS,
+B-6,A-113,1.0,P,A-LYS,
+B-8,A-116,1.0,P,T-GLY,
+B-10,A-129,1.0,P,C-GLY,
+B-10,A-138,1.0,H,C-ALA,
+B-10,A-138,1.0,H,C-ALA_Backbone,

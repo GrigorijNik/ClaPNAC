@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+P-600,A-58,1.0,R,A-MET,
+P-600,A-89,1.0,R,A-PHE,
+P-601,A-65,1.0,S,U-THR,
+P-601,A-67,1.0,W,U-GLY_Backbone,
+P-602,A-57,1.0,P,C-ILE,
+P-602,A-58,1.0,P,C-MET,
+P-602,A-62,1.0,R,C-ARG,

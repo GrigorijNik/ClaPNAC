@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+E-599,E-57,0.88,W,A-VAL,
+E-599,E-183,0.96,H,A-THR,
+E-599,E-120,0.9,W,A-MET,
+E-599,E-173,0.73,-,A-LEU,
+E-599,E-70,0.88,W,A-ALA,
+E-599,E-70,0.74,W,A-ALA_Backbone,
+E-599,E-123,1.0,W,A-VAL,

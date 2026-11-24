@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+C-20,A-241,1.0,P,G-VAL,
+C-21,A-217,1.0,R,T-GLY,
+C-21,A-217,1.0,R,T-GLY_Backbone,
+C-22,A-218,1.0,P,C-VAL_Backbone,
+D-8,A-178,1.0,R,C-PHE,
+D-10,A-175,1.0,R,T-ARG,
+D-11,A-175,1.0,P,G-ARG,

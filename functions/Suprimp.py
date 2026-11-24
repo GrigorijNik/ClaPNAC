@@ -153,7 +153,7 @@ def Suprimp_F(NA_pair, AA_type, N_type, class_AA_type, repr_atom): # Return atom
 
             return atoms_AA_sample[5:l]
     elif temp_repr == "FA":
-        if len(NA_pair[5]) != len(AA)+3 and AA_type != 'Backbone' and class_AA_type not in ("3'", "5'") and AA_type != 'GLY': # Check number of atoms
+        if len(NA_pair[5]) != len(AA)+3 and AA_type != 'Backbone' and class_AA_type not in ("3'", "5'") and AA_type not in ('GLY', 'ALA'): # Check number of atoms
             return atoms_AA_sample
         atoms_nucl_sample = []
 
@@ -209,6 +209,9 @@ def Suprimp_F(NA_pair, AA_type, N_type, class_AA_type, repr_atom): # Return atom
         elif AA_type == 'GLY' and class_AA_type in ("3'", "5'"):
             AA_return = [atoms_AA_sample[nl+i] for i in [1, 2]]
             AA_temp = [AA_coord[i] for i in [1, 2]]
+        elif AA_type == 'ALA':
+            AA_return = [atoms_AA_sample[nl+i+3] for i in [-1, 0, 1]]
+            AA_temp = [AA_coord[i+3] for i in [-1, 0, 1]]
         else:
             AA_return.append(atoms_AA_sample[1+nl])
             AA_temp.append(AA_coord[1])
@@ -218,7 +221,7 @@ def Suprimp_F(NA_pair, AA_type, N_type, class_AA_type, repr_atom): # Return atom
 
         AA_return = np.array(AA_return)
 
-        if class_AA_type in ("3'", "5'") and AA_type in ("HIS", "PHE", "TYR", "TRP", "PRO"): # Additional check for stacking: base and sidechain should be parallel
+        if class_AA_type in ("3'", "5'"): # Additional check for stacking: base and sidechain should be parallel
                 # Check planarity of AA atoms and base atoms
             atoms_AA_temp = []
             atoms_AA_temp.append(AA_return[0])
@@ -237,7 +240,72 @@ def Suprimp_F(NA_pair, AA_type, N_type, class_AA_type, repr_atom): # Return atom
 
             planarity = np.dot(normalized_v_lin, normalized_v_norm)
 
-            if planarity > -0.1 and planarity < 0.1:
+            # Create a dictionary: atom name -> XYZ coordinates
+            atoms_stack = {}
+
+            for atom_stack in NA_pair[2]:
+                if not isinstance(atom_stack, (list, tuple)) or len(atom_stack) < 4:
+                    print("Skipping invalid nucleotide atom:", repr(atom_stack))
+                    continue
+
+                atom_name = atom_stack[3]
+                coordinates = np.array(atom_stack[:3], dtype=float)
+
+                atoms_stack[atom_name] = coordinates
+
+            # print(atoms_stack)
+
+            # Calculate 3' reference point
+            if "C3'" in atoms_stack and "O3'" in atoms_stack:
+                p3 = (atoms_stack["C3'"] + atoms_stack["O3'"]) / 2.0
+            elif "C3'" in atoms_stack:
+                p3 = atoms_stack["C3'"]
+            elif "O3'" in atoms_stack:
+                p3 = atoms_stack["O3'"]
+            else:
+                AA_return = []
+                return AA_return
+
+            # Calculate 5' reference point
+            if "C5'" in atoms_stack and "O5'" in atoms_stack:
+                p5 = (atoms_stack["C5'"] + atoms_stack["O5'"]) / 2.0
+            elif "C5'" in atoms_stack:
+                p5 = atoms_stack["C5'"]
+            elif "O5'" in atoms_stack:
+                p5 = atoms_stack["O5'"]
+            else:
+                AA_return = []
+                return AA_return
+
+            p0 = atoms_stack["N1"]  # base point
+
+            # Project p3 and p5 onto the base plane
+            p3_proj = p3 - np.dot(p3 - p0, v_norm) * v_norm
+            p5_proj = p5 - np.dot(p5 - p0, v_norm) * v_norm
+
+            # Direction from 5' to 3' within the base plane
+            v_5to3 = p3_proj - p5_proj
+            v_5to3 /= np.linalg.norm(v_5to3)
+
+            p_AA = np.array(atoms_AA_temp[0])
+
+            # Project the amino acid atom onto the base plane
+            p_AA_proj = p_AA - np.dot(p_AA - p0, v_norm) * v_norm
+
+            # Use the midpoint between p3 and p5 as the reference
+            p_mid = (p3_proj + p5_proj) / 2.0
+
+            # Signed position along the 5'-to-3' axis
+            signed_position = np.dot(p_AA_proj - p_mid, v_5to3)
+
+            if signed_position < 0 and class_AA_type == "3'":
+                AA_return = []
+                return AA_return
+            elif signed_position > 0 and class_AA_type == "5'":
+                AA_return = []
+                return AA_return
+
+            if AA_type in ("HIS", "PHE", "TYR", "TRP", "PRO") and planarity > -0.1 and planarity < 0.1:
                 AA_return = []
                 return AA_return
             

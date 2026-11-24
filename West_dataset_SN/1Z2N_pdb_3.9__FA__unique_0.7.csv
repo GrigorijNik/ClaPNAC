@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+X-871,X-109,0.74,W,A-PRO,
+X-871,X-170,0.7,W,A-TYR,
+X-871,X-171,0.7,W,A-ILE_Backbone,
+X-871,X-277,0.9,S,A-ILE,
+X-871,X-173,0.95,S,A-HIS,

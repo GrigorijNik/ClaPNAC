@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+C-15,A-78,1.0,P,A-ARG,
+C-15,A-88,1.0,P,A-LYS,
+C-16,A-61,1.0,H,T-PRO,
+D-4,A-32,1.0,P,A-THR,
+D-12,A-85,1.0,R,A-ARG_Backbone,
+D-13,A-84,1.0,R,A-ASP,
+D-13,A-86,1.0,R,A-ARG,

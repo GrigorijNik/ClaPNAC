@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-1200,A-47,0.8,W,U-LEU_Backbone,
+A-1200,A-67,0.89,+,U-TYR,
+A-1200,A-49,0.82,W,U-ASN_Backbone,
+A-1200,A-20,0.8,H,U-PHE,
+A-1200,A-48,0.8,W,U-ALA_Backbone,
+A-1200,A-46,0.7,H,U-PHE,

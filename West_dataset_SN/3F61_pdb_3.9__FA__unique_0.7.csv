@@ -1,0 +1,8 @@
+NA_id,P_id,score,type,N-AA,
+A-340,A-25,0.92,W,A-VAL,
+A-340,A-155,0.77,+,A-MET,
+A-340,A-38,0.76,W,A-ALA,
+A-340,A-92,0.89,W,A-MET,
+A-340,A-95,1.0,W,A-VAL,
+A-340,A-95,0.7,W,A-VAL_Backbone,
+A-340,A-145,0.77,W,A-MET,

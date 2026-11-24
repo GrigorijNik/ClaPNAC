@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+A-560,A-48,0.96,S,A-THR,
+A-560,A-138,0.96,W,A-ARG,
+A-560,A-136,0.72,W,A-ASP_Backbone,
+A-560,A-14,0.93,W,A-MET,

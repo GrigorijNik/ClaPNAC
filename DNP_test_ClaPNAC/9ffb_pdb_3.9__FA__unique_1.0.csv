@@ -1,0 +1,5 @@
+NA_id,P_id,score,type,N-AA,
+S-13,B-797,1.0,P,A-SER,
+S-17,B-1156,1.0,R,A-ASP,
+T-44,B-1248,1.0,R,T-ARG,
+T-47,B-1021,1.0,R,C-LEU,

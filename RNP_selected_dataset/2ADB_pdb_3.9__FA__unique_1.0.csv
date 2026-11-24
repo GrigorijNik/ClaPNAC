@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+B-300,A-221,1.0,S,U-GLN,
+B-301,A-216,1.0,R,C-PHE,
+B-301,A-259,1.0,+,C-LYS,
+B-301,A-258,1.0,W,C-SER,
+B-302,A-264,1.0,W,U-ASN_Backbone,
+B-304,A-269,1.0,S,U-ASN,

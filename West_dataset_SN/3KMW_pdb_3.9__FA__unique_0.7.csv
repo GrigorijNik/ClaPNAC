@@ -1,0 +1,7 @@
+NA_id,P_id,score,type,N-AA,
+A-502,A-207,0.76,H,A-LEU,
+A-502,A-326,0.74,+,A-MET,
+A-502,A-218,1.0,W,A-VAL,
+A-502,A-272,0.95,W,A-MET,
+A-502,A-272,0.78,W,A-MET_Backbone,
+A-502,A-271,1.0,S,A-TRP,

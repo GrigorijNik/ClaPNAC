@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+J--15,T-451,1.0,R,T-PRO,
+J--5,N-44,1.0,R,T-ARG,
+i-3,L-191,1.0,P,C-SER,
+i-9,W-1,1.0,R,G-MET_Backbone,
+i-18,T-450,1.0,R,A-ARG,

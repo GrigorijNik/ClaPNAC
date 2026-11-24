@@ -1,0 +1,6 @@
+NA_id,P_id,score,type,N-AA,
+B-800,B-67,1.0,S,A-THR,
+B-800,B-168,0.93,H,A-ARG,
+B-800,B-204,0.88,W,A-THR,
+B-800,B-204,0.76,W,A-THR_Backbone,
+B-800,B-209,1.0,W,A-VAL,
