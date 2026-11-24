@@ -1,8 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-993,A-176,0.96,W,U-PHE,
-A-993,A-176,0.78,W,U-PHE_Backbone,
-A-993,A-240,0.9,W,U-ASN_Backbone,
-A-993,A-241,0.8,S,U-ILE,
-A-993,A-241,0.96,W,U-ILE_Backbone,
-A-993,A-164,0.76,S,U-TRP,
-A-993,A-172,0.82,W,U-LEU_Backbone,

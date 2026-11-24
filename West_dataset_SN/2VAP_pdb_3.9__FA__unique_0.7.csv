@@ -1,8 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-1355,A-47,0.8,W,G-GLY_Backbone,
-A-1355,A-48,0.78,W,G-ALA,
-A-1355,A-48,0.94,W,G-ALA_Backbone,
-A-1355,A-130,0.89,-,G-GLY,
-A-1355,A-208,0.71,-,G-PHE,
-A-1355,A-208,0.92,W,G-PHE_Backbone,
-A-1355,A-212,1.0,W,G-ASP,

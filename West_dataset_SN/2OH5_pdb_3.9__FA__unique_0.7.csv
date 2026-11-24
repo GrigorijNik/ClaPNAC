@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-252,A-173,0.71,+,G-ASN,
-A-252,A-172,0.9,-,G-TYR,
-A-252,A-172,0.82,W,G-TYR_Backbone,
-A-254,A-80,0.82,H,C-TYR,
-A-254,A-98,0.8,-,C-ARG,
-A-254,A-81,0.72,H,C-ASP,

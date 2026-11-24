@@ -1,3 +1,0 @@
-bash batch_download.sh -f <input_dataset.txt> -a
-gunzip *.gz
-rename 's/\.pdb1$/.pdb/' *.pdb1 

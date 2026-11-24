@@ -1,8 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-400,A-142,0.8,H,A-TYR,
-A-400,A-227,0.72,H,A-TYR,
-A-400,A-282,0.81,+,A-PHE,
-A-400,A-116,0.74,W,A-PRO,
-A-400,A-176,1.0,W,A-VAL,
-A-400,A-176,0.72,W,A-VAL_Backbone,
-A-401,A-75,0.94,H,A-HIS,

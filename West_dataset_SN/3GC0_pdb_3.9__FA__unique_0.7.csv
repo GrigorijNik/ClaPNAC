@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-309,A-29,0.72,W,A-VAL,
-A-309,A-21,0.7,-,A-LEU,
-A-309,A-143,0.73,-,A-LEU,
-A-309,A-42,0.76,W,A-ALA,
-A-309,A-94,1.0,S,A-ALA,
-A-309,A-94,0.74,W,A-ALA_Backbone,

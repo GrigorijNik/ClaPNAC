@@ -1,6 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-3000,A-165,0.83,H,T-ARG,
-A-3000,A-21,0.7,S,T-THR,
-A-3000,A-21,0.76,W,T-THR_Backbone,
-A-3000,A-63,1.0,S,T-ALA,
-A-3000,A-63,0.96,W,T-ALA_Backbone,

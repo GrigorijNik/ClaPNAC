@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-1284,A-60,0.88,W,A-VAL,
-A-1284,A-66,0.76,H,A-LEU,
-B-1283,B-100,0.78,S,A-MET,
-B-1283,B-60,0.82,W,A-VAL,
-B-1283,B-66,0.78,W,A-LEU,
-B-1283,B-66,0.72,W,A-LEU_Backbone,

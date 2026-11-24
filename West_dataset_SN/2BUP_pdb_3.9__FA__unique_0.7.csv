@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-486,A-339,0.76,H,A-GLY,
-A-486,A-340,0.7,S,A-SER,
-A-486,A-272,0.76,W,A-ARG,
-A-486,A-272,0.72,W,A-ARG_Backbone,
-A-486,A-275,1.0,W,A-SER,
-A-486,A-342,0.86,W,A-ARG,

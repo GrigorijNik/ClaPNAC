@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-B-800,B-25,0.76,S,U-ARG,
-B-800,B-175,0.82,W,U-PHE,
-B-800,B-54,0.95,S,U-ASN,
-B-800,B-54,0.76,W,U-ASN_Backbone,
-B-800,B-58,0.75,W,U-ASN,
-B-800,B-58,0.74,W,U-ASN_Backbone,

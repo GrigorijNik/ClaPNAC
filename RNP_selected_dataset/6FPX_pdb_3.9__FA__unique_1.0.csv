@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-B-1,A-486,1.0,R,U-ARG,
-B-2,A-488,1.0,H,U-ARG_Backbone,
-B-2,A-437,1.0,W,U-THR_Backbone,
-B-3,A-436,1.0,P,U-LYS,
-B-6,A-349,1.0,R,A-ARG,
-B-7,A-338,1.0,S,C-ARG,

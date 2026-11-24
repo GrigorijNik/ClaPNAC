@@ -1,7 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-A-901,A-191,0.74,W,T-LEU_Backbone,
-A-901,A-208,1.0,+,T-TYR,
-A-901,A-208,0.92,W,T-TYR_Backbone,
-A-901,A-206,1.0,W,T-PRO,
-A-901,A-206,1.0,W,T-PRO_Backbone,
-A-901,A-207,0.94,W,T-LEU_Backbone,

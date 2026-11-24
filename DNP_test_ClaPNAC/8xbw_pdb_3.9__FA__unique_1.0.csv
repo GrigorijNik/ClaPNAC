@@ -1,8 +1,0 @@
-NA_id,P_id,score,type,N-AA,
-I-60,F-36,1.0,P,A-ARG,
-J-88,F-45,1.0,R,C-ARG,
-J-89,F-46,1.0,P,G-ILE_Backbone,
-J-89,E-43,1.0,R,G-PRO,
-J-90,E-44,1.0,P,T-GLY,
-J-90,E-45,1.0,P,T-THR,
-J-98,E-63,1.0,R,A-ARG,

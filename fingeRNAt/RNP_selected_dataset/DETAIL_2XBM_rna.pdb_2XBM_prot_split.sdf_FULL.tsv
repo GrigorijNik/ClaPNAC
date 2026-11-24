@@ -1,6 +1,0 @@
-	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
-0	2XBM_prot_split.pdb	147	147	Lipophilic	5	-34.217	-39.467	-14.439	G	1	E	C5	-31.265	-41.418	-13.493	3.6627
-1	2XBM_prot_split.pdb	147	147	Lipophilic	5	-34.217	-39.467	-14.439	G	1	E	C6	-32.018	-42.162	-12.601	3.9341
-2	2XBM_prot_split.pdb	147	147	Lipophilic	5	-34.217	-39.467	-14.439	G	1	E	C2	-32.18	-40.119	-11.37	3.7408
-3	2XBM_prot_split.pdb	147	147	Lipophilic	5	-34.217	-39.467	-14.439	G	1	E	C4	-31.04	-40.106	-13.24	3.4553
-4	2XBM_prot_split.pdb	147	147	Lipophilic	6	-33.689	-38.832	-15.658	G	1	E	C4	-31.04	-40.106	-13.24	3.8062
